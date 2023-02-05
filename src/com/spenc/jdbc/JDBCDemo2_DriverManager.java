@@ -4,6 +4,12 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.Statement;
 
+/**
+ * @Classname: JDBCDemo2_DriverManager
+ * @Author: spencerzhyp@gmail.com
+ * @Date: 1/25/2023 8:11 PM
+ */
+
 public class JDBCDemo2_DriverManager {
     
     public static void main(String[] args) throws Exception {
